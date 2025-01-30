@@ -5,5 +5,5 @@ data = An initial file data/data_clean_beta.csv compiles all species nutrient ac
 Relevant calculations for the manuscript are calculated in scripts/Beta_calculus.R, which gives a .csv file (data/data_C3.csv) that is then used for all analyses. 
 A metadata file for data/data_clean_beta.csv is also included in this folder
 
-scripts = contains R scripts used for carbon cost calculations (scripts/Beta_calculus.R, and scripts/calc_optimal_vcmax.R), data analysis (scripts/stat_analysis_Beta_Final), and supplemental plots (scripts/Whittaker_diagram.R) 
+scripts = contains R scripts used for carbon cost calculations (scripts/Beta_calculus.R, and scripts/calc_optimal_vcmax.R), and data analysis (scripts/stat_analysis_Beta_Final)
 functions = contains functions called for carbon cost calculations
